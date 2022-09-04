@@ -6,7 +6,7 @@
 * Currently learning JavaScript, HTML, CSS👀
 * Mildly OCD-diagnosed – It helps a lot with developing clean and efficient code ;)
 
-Hmu in either English, Spanish, German, Danish. Catalan TBA
+HMU in either English, Spanish, German, Danish at [mschindler@fbofill.cat](mailto:mschindler@fbofill.cat). Catalan TBA. 
 
 
 
