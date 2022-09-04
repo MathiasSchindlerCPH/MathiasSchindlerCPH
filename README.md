@@ -6,7 +6,7 @@
 * Working at Fundació Bofill as Data Coordinator💼
 * Experienced in Python, R, SQL, Stata, LaTeX👌
 * Currently learning JavaScript, HTML, CSS👀
-* Mildly OCD-diagnosed – It helps a lot with developing clean and efficient code ;)
+* Mildly OCD-diagnosed – It helps immensly with developing clean and efficient code😉
 
 HMU in either English, Spanish, German, Danish at [mschindler@fbofill.cat](mailto:mschindler@fbofill.cat). Catalan TBA. 
 
