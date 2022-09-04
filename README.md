@@ -1,5 +1,7 @@
 ### Hi there, fellow humans and others! 👋
 
+*My Motto:  Do things right the first time and there won't be need for apologies.*
+
 * Based in Barcelona, Spain📍
 * Working at Fundació Bofill as Data Coordinator💼
 * Experienced in Python, R, SQL, Stata, LaTeX, MS Office👌
