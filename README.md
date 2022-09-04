@@ -1,6 +1,6 @@
 ### Hi there, fellow humans and others! 👋
 
-*My Motto:  Do things right the first time and there won't be need for apologies.*
+*My philosophy on life:  Pursue your dreams and learn from your mistakes.*
 
 * Based in Barcelona, Spain📍
 * Working at Fundació Bofill as Data Coordinator💼
