@@ -4,7 +4,7 @@
 
 * Based in Barcelona, Spain📍
 * Working at Fundació Bofill as Data Coordinator💼
-* Experienced in Python, R, SQL, Stata, LaTeX, MS Office👌
+* Experienced in Python, R, SQL, Stata, LaTeX👌
 * Currently learning JavaScript, HTML, CSS👀
 * Mildly OCD-diagnosed – It helps a lot with developing clean and efficient code ;)
 
