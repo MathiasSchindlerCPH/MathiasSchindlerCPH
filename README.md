@@ -2,8 +2,8 @@
 
 *My philosophy on life:  Pursue your dreams and learn from your mistakes.*
 
-* Based in Barcelona, Spain📍
-* Working at Fundació Bofill as Data Coordinator💼
+* Working at Pentabilities S.L. as Junior Product Manager💼
+* Working from Barcelona, Spain📍
 * Experienced in Python, R, SQL, Stata, LaTeX👌
 * Currently learning JavaScript, HTML, CSS👀
 * Mildly OCD-diagnosed – It helps immensly with developing clean and efficient code😉
