@@ -8,7 +8,12 @@
 * Currently learning JavaScript, HTML, CSS👀
 * Mildly OCD-diagnosed – It helps immensly with developing clean and efficient code😉
 
-HMU in either English, Spanish, German, Danish at [mschindler@fbofill.cat](mailto:mschindler@fbofill.cat). Catalan TBA. 
+HMU in either English, Spanish, German, Danish (Catalan TBA) at [mschindler@fbofill.cat](mailto:mschindler@fbofill.cat) or on 
+<div id="badges">
+   <a href="https://www.linkedin.com/in/mathias-schindler-cph/" >
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 
 
