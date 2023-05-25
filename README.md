@@ -2,11 +2,10 @@
 
 *My philosophy on life:  Pursue your dreams and learn from your mistakes.*
 
-* Working at Pentabilities S.L. as Junior Product Manager💼
+* Working at Pentabilities S.L. as everything (from Product Mgmt, Quality Assurance, Data Engineering, UI/UX Design, Web Development - to name a few!)💼
 * Working from Barcelona, Spain📍
-* Experienced in Python, R, SQL, Stata, LaTeX👌
-* Currently learning JavaScript, HTML, CSS👀
-* Mildly OCD-diagnosed – It helps immensly with developing clean and efficient code😉
+* Experienced in Python, R, SQL, JavaScript, HTML, CSS👌
+* Mildly OCD-diagnosed – It helps immensly with developing clean and efficient code👀
 
 HMU in either English, Spanish, German, Danish (Catalan TBA) at [mschindler@fbofill.cat](mailto:mschindler@fbofill.cat) or on 
 <div id="badges">
