@@ -1,4 +1,4 @@
-### Hi there, fellow humans and others! 👋
+### Hi there, fellow hoomans and others! 👋
 
 *My philosophy on life:  Pursue your dreams and learn from your mistakes.*
 
