@@ -2,7 +2,7 @@
 
 *My philosophy on life:  Pursue your dreams and learn from your mistakes.*
 
-* Working at Pentabilities S.L. as everything (from Product Mgmt, Quality Assurance, Data Engineering, UI/UX Design, Web Development - to name a few!)💼
+* Working at Pentabilities S.L. as everything (from Product Mgmt, Quality Assurance, Data Engineering, UI/UX Design, Web Development, ... - to name a few!)💼
 * Working from Barcelona, Spain📍
 * Mildly OCD-diagnosed – It helps immensly with developing clean and efficient code👀 
 * I have experience working with the following technologies:
