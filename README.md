@@ -4,8 +4,7 @@
 
 * Working at Pentabilities S.L. as everything (from Product Mgmt, Quality Assurance, Data Engineering, UI/UX Design, Web Development - to name a few!)💼
 * Working from Barcelona, Spain📍
-* Experienced in Python, R, SQL, JavaScript, HTML, CSS👌
-* Mildly OCD-diagnosed – It helps immensly with developing clean and efficient code👀 I have worked with:
+* Mildly OCD-diagnosed – It helps immensly with developing clean and efficient code👀 I have experience working with the following technologies:
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="50" height="50"/>&nbsp;   
