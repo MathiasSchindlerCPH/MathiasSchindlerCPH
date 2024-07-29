@@ -3,7 +3,8 @@
 *My philosophy on life:  Pursue your dreams and learn from your mistakes.*
 
 * Working [@Pentabilities S.L.](https://pentabilities.com/index) as everything (from Web Dev, Data Engineering, Quality Assurance, UI/UX Design, Product Mgmt, ... - to name a few!)💼
-* Working from Barcelona, Spain📍 (hybrid)
+* Working from Barcelona, Spain📍 
+* Hobby porject: iOS app for tracking parcels to learn Swift
 * Mildly OCD-diagnosed – It helps immensly with developing clean and efficient code👀 
 * I have experience working with the following technologies:
 <div>
