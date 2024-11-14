@@ -49,9 +49,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" width="50" height="50"/>&nbsp;
 </div>
 
-- Some ❤️ly Git ressources:
-  - .
-
 <br><br>
 HMU in either 🇬🇧English, 🇪🇸Spanish, 🇩🇪German, 🇩🇰Danish (Catalan TBA) at [mathingvid@gmail.com](mailto:mathingvid@gmail.com) or on 
 <div id="badges">
