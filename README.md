@@ -5,7 +5,12 @@
 * Working [@Pentabilities S.L.](https://pentabilities.com/index) as "everything" (from Web Dev, Data Engineering, Quality Assurance, UI/UX Design, Product Mgmt, ... - to name a few!)💼
 * Working from Barcelona, Spain📍 
 * Hobby porject: iOS app for tracking parcels to learn SwiftUI
-* Mildly OCD-diagnosed – It helps immensly with developing clean and efficient code👀 
+* Mildly OCD-diagnosed – It helps immensly with developing clean and efficient code👀
+- Some ❤️ly Git ressources I enjoy:
+  - [Oh Shit, Git!?!](https://ohshitgit.com/): Quite informal encyclopaedia for "arrgghhh"-relief
+  - [Disaster recovery](https://happygitwithr.com/burn.html): Highly effective, but equally highly inelegant
+  - [Gitmoji](https://gitmoji.dev/): Spice up your life, ... ahem I mean your commits
+  - [Lecture "Version control with Git and GitHub"](https://psantanna.com/Econ520/Slides/02-Git/02slides.html#1): Surprisingly decent intro to Git for an economist 
 * I have experience working with the following technologies:
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="50" height="50"/>&nbsp;
@@ -44,6 +49,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" width="50" height="50"/>&nbsp;
 </div>
 
+- Some ❤️ly Git ressources:
+  - .
 
 <br><br>
 HMU in either 🇬🇧English, 🇪🇸Spanish, 🇩🇪German, 🇩🇰Danish (Catalan TBA) at [mathingvid@gmail.com](mailto:mathingvid@gmail.com) or on 
