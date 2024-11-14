@@ -10,7 +10,8 @@
   - [Oh Shit, Git!?!](https://ohshitgit.com/): Quite informal encyclopaedia for "arrgghhh"-relief
   - [Disaster recovery](https://happygitwithr.com/burn.html): Highly effective, but equally highly inelegant
   - [Gitmoji](https://gitmoji.dev/): Spice up your life, ... ahem I mean your commits
-  - [Lecture "Version control with Git and GitHub"](https://psantanna.com/Econ520/Slides/02-Git/02slides.html#1): Surprisingly decent intro to Git for an economist 
+  - [Late Night Commits 1](https://web.archive.org/web/20210416163007/http://www.commitlogsfromlastnight.com/), [Late Night Commits 2](https://latenightcommits.com/)
+  - [Lecture "Version control with Git and GitHub"](https://psantanna.com/Econ520/Slides/02-Git/02slides.html#1): Surprisingly decent intro to Git for an economist
 * I have experience working with the following technologies:
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="50" height="50"/>&nbsp;
