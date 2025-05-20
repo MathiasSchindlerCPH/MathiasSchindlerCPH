@@ -59,6 +59,9 @@ HMU in either 🇬🇧English, 🇩🇰Danish, 🇩🇪German or 🇪🇸Spanish
 </div>
 
 
+---
+📈 GitHub Activity Graph:
+![contributions calendar snake game svg](https://github.com/MathiasSchindlerCPH/MathiasSchindlerCPH/blob/main/dist/github-snake.svg)
 
 
 <!--
