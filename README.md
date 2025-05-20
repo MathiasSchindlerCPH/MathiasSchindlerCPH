@@ -58,9 +58,13 @@ HMU in either 🇬🇧English, 🇩🇰Danish, 🇩🇪German or 🇪🇸Spanish
   </a>
 </div>
 
+<br>
 
 ---
-📈 GitHub Activity Graph:
+
+<br>
+
+### 📈 Contributions Calendar:
 ![contributions calendar snake game svg](https://github.com/MathiasSchindlerCPH/MathiasSchindlerCPH/blob/main/dist/github-snake.svg)
 
 
