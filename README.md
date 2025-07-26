@@ -2,11 +2,11 @@
 
 *My philosophy on life:  Pursue your dreams and learn from your mistakes.*
 
-* Working [@Pentabilities S.L.](https://pentabilities.com/index) as "everything" (from Web Dev, Data Engineering, Quality Assurance, UI/UX Design, Product Mgmt, ... - to name a few!)💼
-* Working from Barcelona, Spain📍 
-* Hobby project: iOS app for tracking parcels to learn `SwiftUI`
-* Mildly OCD-diagnosed – It helps immensly with developing clean and efficient code👀
-- Some ❤️ly Git ressources I enjoy:
+* 💼Working: [@Pentabilities S.L.](https://pentabilities.com/index) as "everything" (from Web Dev, Data Engineering, Quality Assurance, UI/UX Design, Product Mgmt, ... - to name a few!)💼
+* 📍Location: Copenhagen, Denmark
+* 🧑‍🎓Learning currently: `Java` and `Spring Boot`
+* 💡Mildly OCD-diagnosed – It helps immensly with developing clean and efficient code👀
+- Some ❤️ly `Git` ressources I enjoy:
   - [Oh Shit, Git!?!](https://ohshitgit.com/): Quite informal encyclopaedia for "arrgghhh"-relief
   - [Disaster recovery](https://happygitwithr.com/burn.html): Highly effective, but equally highly inelegant
   - [Gitmoji](https://gitmoji.dev/): Spice up your life, ... ahem I mean your commits
