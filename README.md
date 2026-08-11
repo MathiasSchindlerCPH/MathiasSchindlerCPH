@@ -2,9 +2,9 @@
 
 *My philosophy on life:  Pursue your dreams and learn from your mistakes.*
 
-* 💼Working: [@Pentabilities S.L.](https://pentabilities.com/index) as "everything" (from Web Dev, Data Engineering, Quality Assurance, UI/UX Design, Product Mgmt, ... - to name a few!)💼
+* 💼Working: [@RegionHovedstaden](https://www.regionh.dk/english/pages/default.aspx) as Software Engineer. Mostly focused and frontend and UX design.
 * 📍Location: Copenhagen, Denmark
-* 🧑‍🎓Learning currently: `Java` and `Spring Boot`
+* 🧑‍🎓Learning currently: `C#`, `.NET` and `Swift`
 * 💡Mildly OCD-diagnosed – It helps immensly with developing clean and efficient code👀
 - Some ❤️ly `Git` ressources I enjoy:
   - [Oh Shit, Git!?!](https://ohshitgit.com/): Quite informal encyclopaedia for "arrgghhh"-relief
